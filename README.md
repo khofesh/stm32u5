@@ -45,6 +45,10 @@ different board, but interesting:
 
 - https://www.st.com/en/evaluation-tools/b-u585i-iot02a.html
 
+### STM32 CubeProgrammer
+
+- https://wiki.st.com/stm32mpu/wiki/STM32CubeProgrammer
+
 ## STM32U5 Azure Out Of the Box Experience
 
 - https://github.com/stm32-hotspot/STM32U5_Azure_OOBE
